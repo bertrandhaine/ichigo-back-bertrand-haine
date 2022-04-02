@@ -1,0 +1,1 @@
+{"version":3,"file":"serializer.js","sourceRoot":"","sources":["../../../../src/api/reward/generateRewards/serializer.ts"],"names":[],"mappings":";;;AACA,iFAA+F;AAMxF,MAAM,UAAU,GAAG,CAAC,OAAiB,EAA4B,EAAE;IACxE,OAAO;QACL,IAAI,EAAE,OAAO,CAAC,GAAG,CAAC,oCAAgB,CAAC;KACpC,CAAC;AACJ,CAAC,CAAC;AAJW,QAAA,UAAU,cAIrB"}

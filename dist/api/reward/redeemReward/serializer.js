@@ -1,0 +1,11 @@
+"use strict";
+Object.defineProperty(exports, "__esModule", { value: true });
+exports.serializer = void 0;
+const reward_serializer_1 = require("../../common/serializer/reward.serializer");
+const serializer = (reward) => {
+    return {
+        data: (0, reward_serializer_1.rewardSerializer)(reward),
+    };
+};
+exports.serializer = serializer;
+//# sourceMappingURL=serializer.js.map
